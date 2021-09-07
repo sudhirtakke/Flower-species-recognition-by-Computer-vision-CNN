@@ -70,7 +70,7 @@ Here are the images and predictions made for few randomly selected images….
 ![image](https://user-images.githubusercontent.com/49444353/128813578-b82adff1-9bec-4234-bdfb-db6dae68856a.png)
 
 
-[Jupyter Notebook](./Image Classification.ipynb)
+[Jupyter Notebook](./Image classification.ipynb)
 
 
 
